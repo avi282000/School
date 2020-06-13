@@ -1,9 +1,17 @@
-	h1{
+		body{
+			background-color: #000080;
+		}
+		h1{
 			color: #01BE2F;
 			font-size: 40px;
 		}
 
+		h2{
+			color: #87CEEB;
+			font-size: 30px; 
+		}
+
 		p{
-			color: #01BE2F;
+			color: #87CEEB;
 			font-size: 20px;
 		}
