@@ -19,6 +19,7 @@
 		border-radius: 170px;
 		width: 300px;
 		border: 20px solid #32CD32;
+		line-height: 30px;
 	}
 	h1, h2{
 		font-family: 'Odibee Sans', cursive;
