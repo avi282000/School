@@ -12,6 +12,9 @@
 			font-size: 40px;
 		}
 
+		header img{
+			border-radius: 150px;
+		}
 		h2{
 			color: #87CEEB;
 			font-size: 30px; 
