@@ -33,6 +33,7 @@
 
 	main img{
 		max-width: 100%;
+		align-self: center;
 	}
 	h2{
 		color: #87CEEB;
