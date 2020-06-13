@@ -1,6 +1,11 @@
 		body{
 			background-color: #000080;
 		}
+		
+		header{
+			background-color: #32CD32;
+		}
+
 		h1{
 			color: #01BE2F;
 			font-size: 40px;
