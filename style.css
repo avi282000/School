@@ -1,35 +1,38 @@
-		body{
-			background-color: #000080;
-			font-family: 'Teko', sans-serif;
-		}
+	body{
+		background-color: #000080;
+		font-family: 'Teko', sans-serif;
+	}
 		
-		header{
-			background-color: #008000;
-			text-align: center;
-			padding-top: 50px;
-			padding-bottom: 50px;
-		}
+	header{
+		background-color: #008000;
+		text-align: center;
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
 
-		header h1{
-			color:#32CD32;
-			font-size: 60px;
-		}
+	header h1{
+		color:#32CD32;
+		font-size: 60px;
+	}
 
-		header img{
-			border-radius: 170px;
-			width: 300px;
-			border: 20px solid #32CD32;
-		}
-		h1, h2{
-			font-family: 'Odibee Sans', cursive;
-		}
+	header img{
+		border-radius: 170px;
+		width: 300px;
+		border: 20px solid #32CD32;
+	}
+	h1, h2{
+		font-family: 'Odibee Sans', cursive;
+	}
 
-		h2{
-			color: #87CEEB;
-			font-size: 30px; 
-		}
+	main{
+		max-width: 800px;
+	}
+	h2{
+		color: #87CEEB;
+		font-size: 30px; 
+	}
 
-		p{
-			color: #87CEEB;
-			font-size: 18px;
-		}
+	p{
+		color: #87CEEB;
+		font-size: 18px;
+	}
