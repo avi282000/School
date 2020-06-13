@@ -27,6 +27,10 @@
 	main{
 		max-width: 800px;
 	}
+
+	main img{
+		max-width: 100%;
+	}
 	h2{
 		color: #87CEEB;
 		font-size: 30px; 
