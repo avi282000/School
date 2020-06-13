@@ -4,9 +4,10 @@
 		
 		header{
 			background-color: #01BE2F;
+			text-align: center;
 		}
 
-		h1{
+		header h1{
 			color: #008000;
 			font-size: 40px;
 		}
