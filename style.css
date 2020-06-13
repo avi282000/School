@@ -43,3 +43,10 @@
 		color: #87CEEB;
 		font-size: 18px;
 	}
+
+	footer{
+		background-color: #808080;
+		text-align: center;
+		color: white;
+		padding: 50px;
+	}
