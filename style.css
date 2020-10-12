@@ -6,13 +6,13 @@
 	header{
 		background-color: #008000;
 		text-align: center;
-		padding-top: 220px;
-		padding-bottom: 220px;
+		padding-top: 200px;
+		padding-bottom: 200px;
 	}
 
 	header h1{
 		color:#32CD32;
-		font-size: 60px;
+		font-size: 100px;
 	}
 
 	header img{
